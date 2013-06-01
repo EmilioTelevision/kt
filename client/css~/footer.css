@@ -1,0 +1,18 @@
+#footer {
+position: relative;
+bottom: 0px;
+text-align:center;
+
+width:1024px;
+height: 18px;
+margin:0 auto;
+}
+#halo {
+background: url('../../images/halo2.png') no-repeat;
+width:49px;
+height: 44px;
+margin:0 auto;	
+}
+.footer {
+margin-top: 6px;
+}

@@ -1,0 +1,12 @@
+#text_blog {
+float:left;
+clear:right;
+
+}
+.small_line {
+background: url('../../images/small_line.png') no-repeat;
+width: 100%;
+height:1px;	
+margin-top: 5px;	
+}
+

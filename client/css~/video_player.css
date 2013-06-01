@@ -1,0 +1,9 @@
+.video {
+float: left;
+clear: right;
+margin: 5px 10px 0 0;
+}
+.description {
+    margin-top: 13px;
+
+}

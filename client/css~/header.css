@@ -1,0 +1,41 @@
+#header_wrap {
+margin:0 auto;	
+width:100%;
+}
+.header_inner {
+height: 118px;	
+margin: 0 auto;
+padding-top: 25px;
+}
+#buch {
+background: url('../../images/buch.png') no-repeat;	
+height: 113px;
+width: 589px;
+float: left;
+z-index: -1;
+margin-left: 4px;
+}
+#sun {
+clear: le;
+background: url('../../images/sun.png') no-repeat;	
+height: 129px;
+width: 142px;
+float: left;
+z-index: 1;
+margin-left: -23px;
+margin-top: -26px;
+position: relative;
+}
+#times {
+background: url('../../images/time.png') no-repeat;	
+height: 121px;
+width: 308px;
+float: left;
+margin-left: 0px;
+z-index: -1;
+}
+.date {
+float: right;
+margin-top: -28px;
+color: black;
+}

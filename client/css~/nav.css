@@ -1,0 +1,78 @@
+#nav {	
+	
+}
+.groove {
+border-top: 1px solid #145c7b;
+border-bottom: 1px solid #145c7b;
+}
+#skinny_groove {
+border-top: 1px solid #30a0c6;
+}
+.high {
+margin-top:2px;
+}
+.low {
+margin-bottom:2px;
+}
+#menu {
+position: relative;
+top: 8px;
+margin-bottom: 10px;
+}
+#menu ul {
+	
+}
+#menu li {
+display: inline;
+list-style: none;
+float: left;
+margin-right: 18px;
+}
+#menu li img {
+float: right;
+position: relative;
+left: 10px;
+top: -14px;
+}
+#menu li a {
+color:black;
+font-weight:normal;
+}
+
+.search {
+float:right;
+padding-right:10px;
+position: relative;
+bottom: 5px;
+}
+#search {
+padding-bottom: 2px;
+background: url('../../images/searchfieldcopy2-1.png') no-repeat;	
+width: 283px;
+height: 29px;
+float:left;
+margin-right: 5px;
+border:none;
+font-style:italic;
+}
+input {
+padding-left:8px;
+padding-top:-5px;
+line-height: 1;
+}
+#submit {
+background: url('../../images/Finish-1.png') 0 0 no-repeat;
+width: 76px;
+height: 32.2px;
+float:right;
+font-size:0.875em;	
+color:white;
+text-align:center;	
+font-weight: bold;
+padding-top: 2px;	
+border:none;
+}
+#submit:hover {
+background: url('../../images/Finish-1.png') 0 -33.2px no-repeat;
+}
+
